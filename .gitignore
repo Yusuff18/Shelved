@@ -1,0 +1,5 @@
+   venv/
+   .venv/
+   __pycache__/
+   cover_cache/
+   .ipynb_checkpoints/
